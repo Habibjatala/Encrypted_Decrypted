@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Encrypted_Decrypted.props" />
+</Project>
